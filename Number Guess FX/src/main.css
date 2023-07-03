@@ -1,0 +1,12 @@
+.main {
+  -fx-background-color: rgb(86, 211, 198);
+}
+.btn {
+  -fx-background-color: #063b35;
+  -fx-font-weight: bold;
+  -fx-cursor: hand;
+}
+.btn:hover{
+  -fx-background-color: #094b43;
+  -fx-font-size : 14;
+}
